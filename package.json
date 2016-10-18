@@ -4,6 +4,8 @@
   "description": "Collection of mdl components wrapped with SkateJS",
   "main": "index.js",
   "scripts": {
+    "start": "echo \"Error: TODO\" && exit 1",
+    "create": "plop component",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/ngParty/mdl-elements/issues"
   },
-  "homepage": "https://github.com/ngParty/mdl-elements#readme"
+  "homepage": "https://github.com/ngParty/mdl-elements#readme",
+  "devDependencies": {
+    "lerna": "2.0.0-beta.30",
+    "plop": "1.5.0"
+  }
 }
