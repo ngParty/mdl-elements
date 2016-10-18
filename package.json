@@ -1,0 +1,25 @@
+{
+  "name": "mdl-elements",
+  "version": "1.0.0",
+  "description": "Collection of mdl components wrapped with SkateJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngParty/mdl-elements.git"
+  },
+  "keywords": [
+    "skatejs",
+    "mdl",
+    "web",
+    "components"
+  ],
+  "author": "@ngPartyCz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngParty/mdl-elements/issues"
+  },
+  "homepage": "https://github.com/ngParty/mdl-elements#readme"
+}
