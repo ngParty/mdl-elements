@@ -1,0 +1,24 @@
+{
+  "name": "@mdl-elements/{{dashCase name}}",
+  "version": "1.0.0",
+  "description": "mdl {{dashCase name}} webcomponent",
+  "main": "src/index.js",
+  "webpack": "dist/bundle-cjs.js",
+  "mdl:webpack:raw": "src/index.js",
+  "scripts": {
+    "prepublish": "echo \"Error: TODO\" && exit 1"
+  },
+  "files": [
+    "dist"
+  ],
+  "dependencies": {
+    "skatejs": "3.1.1"
+  },
+  "author": "ngParty",
+  "license": "MIT",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngParty/mdl-elements.git"
+  }
+}
